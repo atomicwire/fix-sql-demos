@@ -7,6 +7,7 @@
     * [DuckDB Integration](#duckdb-integration)
     * [Incremental Indexing](#incremental-indexing)
     * [Compute Execution Latency](#compute-execution-latency)
+    * [BigQuery Integration](#bigquery-integration)
 <!-- TOC -->
 
 
@@ -34,3 +35,7 @@ https://github.com/user-attachments/assets/153cf42b-72c3-42ce-8df9-fb3d3f053ab9
 
 https://github.com/user-attachments/assets/a5f00d44-ce04-4bc3-94e0-b5653a91cffe
 
+
+### BigQuery Integration
+
+https://github.com/user-attachments/assets/9ec0c2b8-a38b-42e1-8584-89499e8b7fbd
