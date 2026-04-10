@@ -8,6 +8,7 @@
     * [Incremental Indexing](#incremental-indexing)
     * [Compute Execution Latency](#compute-execution-latency)
     * [BigQuery Integration](#bigquery-integration)
+    * [Export With Masking](#export-with-masking)
 <!-- TOC -->
 
 
@@ -39,3 +40,8 @@ https://github.com/user-attachments/assets/a5f00d44-ce04-4bc3-94e0-b5653a91cffe
 ### BigQuery Integration
 
 https://github.com/user-attachments/assets/9ec0c2b8-a38b-42e1-8584-89499e8b7fbd
+
+
+### Export With Masking
+
+https://github.com/user-attachments/assets/53300fa9-dd67-4a51-a09d-982d93387b20
